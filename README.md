@@ -1,2 +1,2 @@
 # -mamruy86.github.io
-web
+веб разработка
